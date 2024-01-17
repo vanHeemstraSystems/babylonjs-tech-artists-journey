@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+babylonjs-tech-artists-journey
+# BabylonJS Tech Artist's Journey
 
-Based on "ABC" at https://www.abc.com/
+Based on "The Tech Artist's Journey Pt1: Blender Shape Keys" at https://www.youtube.com/watch?v=BqVThaShJEU
+
+and all other episodes!
 
 ## 100 - Introduction
 
